@@ -1,0 +1,27 @@
+.container{
+    background-image: url("gc.jpg");
+    background-repeat: no-repeat;
+      background-position: center;
+      height: 100%;
+      }
+      .b-list{
+          margin-left: 45%;
+           margin-bottom: 5%; 
+        
+          margin-top: 10%;
+          font-size: larger;
+          font-weight: bolder;
+          
+      }
+      #mytable{
+        margin-left: 40%;
+        margin-bottom: 40%;
+        padding-bottom: 40%;
+      }
+      
+      thead{
+        font-size: larger;
+        font-weight: bolder;
+        
+
+      }
